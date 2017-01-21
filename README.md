@@ -2,10 +2,11 @@
 
 Big data processing via mapreduce-based algorithm using AWS servers
 
-Python modules:
-- boto3
+Requirements:
+- python3
 - pandas
 - numpy
+- boto3
 - requests
 
 Required additional files:
